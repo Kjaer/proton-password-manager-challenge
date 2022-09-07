@@ -1,0 +1,11 @@
+.root {
+    padding: 8px 16px;
+    border: 1px solid var(--gray);
+    border-radius: 2px;
+    font-size: 14px;
+    outline: none;
+}
+
+.root:focus {
+    border-color: var(--proton-blue);
+}

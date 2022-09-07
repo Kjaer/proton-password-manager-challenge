@@ -1,0 +1,23 @@
+.root {
+    display: inline-block;
+}
+
+.small {
+    font-size: 16px;
+}
+
+.medium {
+    font-size: 24px;
+}
+
+.large {
+    font-size: 32px;
+}
+
+.blue {
+    color: var(--proton-blue);
+}
+
+.green {
+    color: var(--proton-green);
+}
